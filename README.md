@@ -5,13 +5,16 @@
 ## Interested Field
 
 Computer Vision: image generation/editing, video generation/editing.
+
 Multi-modal learning: large language/vision models.
+
 Safety: adversarial attack
 
 ## Multi-Stage Pre-Training
 
 - P.G. in Software Engineering, 2024-2027 (expected)
   - Xi’an Jiaotong University, advised by Associate Prof. [Yihong Gong](https://gr.xjtu.edu.cn/en/web/ygong)
+    
 - B.Eng. in Mathematics and Statistics, 2020-2024
   - Xi’an Jiaotong University, School of Computing 
  
