@@ -16,7 +16,7 @@ Safety: adversarial attack
   - Xi’an Jiaotong University, advised by Associate Prof. [Yihong Gong](https://gr.xjtu.edu.cn/en/web/ygong)
     
 - B.Eng. in Mathematics and Statistics, 2020-2024
-  - Xi’an Jiaotong University, School of Computing 
+  - Xi’an Jiaotong University
  
 ## Work Flow
 
